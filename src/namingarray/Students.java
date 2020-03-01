@@ -14,9 +14,9 @@ public class Students {
     /**
      * @param args the command line arguments
      */
-    private String name;
-    private int no;
-    private double area;
+    private String name; 
+    private int no;  //numbers
+    private double area;  
 
     /**
      * @return the name
