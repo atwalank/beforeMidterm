@@ -21,8 +21,9 @@ public class Students {
     /**
      * @return the name
      */
+    //want to see the pull
     public String getName() {
-        return name;
+        return name;       //this is to watch pull action
     }
 
     /**
