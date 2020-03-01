@@ -16,6 +16,7 @@ public class Students {
      */
     private String name;
     private int no;
+    private double area;
 
     /**
      * @return the name
@@ -43,6 +44,20 @@ public class Students {
      */
     public void setNo(int no) {
         this.no = no;
+    }
+
+    /**
+     * @return the area
+     */
+    public double getArea() {
+        return area;
+    }
+
+    /**
+     * @param area the area to set
+     */
+    public void setArea(double area) {
+        this.area = area;
     }
     
     
